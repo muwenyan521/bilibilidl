@@ -37,7 +37,7 @@
 
 本项目采用 MIT 开源许可证。
 
-## Cookie获取教程：
+## Cookie获取教程(以Edge浏览器为例)：
 
 1. 打开浏览器，进入哔哩哔哩官网，确保你已经登录你的账号。
   ![显示哔哩哔哩官网首页，用户已登录。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/4d4e2c274ab90833b0dab.png)
