@@ -39,18 +39,18 @@
 ## Cookie获取教程：
 
 1. 打开浏览器，进入哔哩哔哩官网，确保你已经登录你的账号。
-  ![显示哔哩哔哩官网首页，用户已登录。]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/4d4e2c274ab90833b0dab.png))
+  ![显示哔哩哔哩官网首页，用户已登录。]((https://8aa5534c.telegraph-image-9ah.pages.dev/file/4d4e2c274ab90833b0dab.png))
 2. 在浏览器中按 F12 打开开发者工具。
-  ![显示打开的开发者工具窗口。]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/77a6950fa4a45b48000d6.png))
+  ![显示打开的开发者工具窗口。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/77a6950fa4a45b48000d6.png))
 3. 在开发者工具的顶部菜单中，选择 Network（网络）选项。
-  ![开发者工具顶部菜单，Network选项被选中。]([url]https://8aa5534c.telegraph-image-9ah.pages.dev/file/342ba10006dbd394c6fcb.png)
+  ![开发者工具顶部菜单，Network选项被选中。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/342ba10006dbd394c6fcb.png)
 4. 开启录制,并在浏览器中刷新哔哩哔哩的页面。
-  ![在浏览器中，哔哩哔哩页面被刷新。]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/dc9fc823119af5ac59014.png))
+  ![在浏览器中，哔哩哔哩页面被刷新。]((https://8aa5534c.telegraph-image-9ah.pages.dev/file/dc9fc823119af5ac59014.png))
 5. 在开发者工具的 Network 面板中，会显示所有的网络请求。搜索名为 nav 的请求，点击它。
-  ![在开发者工具 Network 面板中，显示了一系列网络请求，nav 的请求被选中。]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/4a1a661bdf64ff4d228c7.png))
+  ![在开发者工具 Network 面板中，显示了一系列网络请求，nav 的请求被选中。]((https://8aa5534c.telegraph-image-9ah.pages.dev/file/4a1a661bdf64ff4d228c7.png))
 6. 在右侧面板中，选择 Headers（头部）选项。在 Request Headers（请求头部）部分，找到名为 Cookie 的字段，这就是你的哔哩哔哩 Cookie。
-  ![在开发者工具 Headers 面板中，显示了一系列头部信息，Cookie 字段被选中]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/7ba72269666ef0097f046.png))
+  ![在开发者工具 Headers 面板中，显示了一系列头部信息，Cookie 字段被选中]((https://8aa5534c.telegraph-image-9ah.pages.dev/file/7ba72269666ef0097f046.png))
 7.只需复制 Cookie 中 SESSDATA 的值，并粘贴到本程序的 "cookie(选填):" 输入框中，就可以使用你的哔哩哔哩账号下载高清视频了。
   ![复制SESSDATA](https://8aa5534c.telegraph-image-9ah.pages.dev/file/7c2777bd9837fc77771a4.png)
-  ![SESSDATA被粘贴至输入框中]([url](https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)
+  ![SESSDATA被粘贴至输入框中]((https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)
 注意：Cookie 包含了你的登录信息，请不要将其泄露给他人。
