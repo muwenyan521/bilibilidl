@@ -43,8 +43,6 @@ def run_download():
                     log_text.delete(1.0, tk.END)  # 清空文本框
                     log_text.insert(tk.END, "开始下载")  # 显示"开始下载"
                     time.sleep(2)  # 等待2秒
-                else:
-                    log_text.insert(tk.END, output.strip())  # 显示输出
                 log_text.config(state=tk.DISABLED)  # 禁止编辑文本框
                 root.update_idletasks()  # 更新 GUI
         log_text.config(state=tk.NORMAL)  # 允许编辑文本框
