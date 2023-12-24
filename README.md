@@ -45,7 +45,7 @@
 3. 在开发者工具的顶部菜单中，选择 Network（网络）选项。
   ![开发者工具顶部菜单，Network选项被选中。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/342ba10006dbd394c6fcb.png)
 4. 开启录制,并在浏览器中刷新哔哩哔哩的页面。
-  ![在浏览器中，哔哩哔哩页面被刷新。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/dc9fc823119af5ac59014.png)
+  ![在浏览器中，哔哩哔哩页面被刷新。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/e93b5bfc92f99c31a6699.png)
 5. 在开发者工具的 Network 面板中，会显示所有的网络请求。搜索名为 nav 的请求，点击它。
   ![在开发者工具 Network 面板中，显示了一系列网络请求，nav 的请求被选中。](https://8aa5534c.telegraph-image-9ah.pages.dev/file/4a1a661bdf64ff4d228c7.png)
 6. 在右侧面板中，选择 Headers（头部）选项。在 Request Headers（请求头部）部分，找到名为 Cookie 的字段，这就是你的哔哩哔哩 Cookie。
