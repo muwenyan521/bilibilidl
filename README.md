@@ -53,4 +53,5 @@
 7.只需复制 Cookie 中 SESSDATA 的值，并粘贴到本程序的 "cookie(选填):" 输入框中，就可以使用你的哔哩哔哩账号下载高清视频了。
   ![复制SESSDATA](https://8aa5534c.telegraph-image-9ah.pages.dev/file/7c2777bd9837fc77771a4.png)
   ![SESSDATA被粘贴至输入框中](https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)
+
 注意：Cookie 包含了你的登录信息，请不要将其泄露给他人。
