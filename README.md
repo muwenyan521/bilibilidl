@@ -52,7 +52,7 @@
 6. 在右侧面板中，选择 Headers（头部）选项。在 Request Headers（请求头部）部分，找到名为 Cookie 的字段，这就是你的哔哩哔哩 Cookie。
   ![在开发者工具 Headers 面板中，显示了一系列头部信息，Cookie 字段被选中](https://8aa5534c.telegraph-image-9ah.pages.dev/file/7ba72269666ef0097f046.png)
 7.只需复制 Cookie 中 SESSDATA 的值，并粘贴到本程序的 "cookie(选填):" 输入框中，就可以使用你的哔哩哔哩账号下载高清视频了。
-  ![复制SESSDATA](https://8aa5534c.telegraph-image-9ah.pages.dev/file/7c2777bd9837fc77771a4.png)
+  ![复制SESSDATA](https://8aa5534c.telegraph-image-9ah.pages.dev/file/de2ab63b126d28f4f800c.png)
   ![SESSDATA被粘贴至输入框中](https://8aa5534c.telegraph-image-9ah.pages.dev/file/fa13adc077e7720261d01.png)
 
 注意：Cookie 包含了你的登录信息，请不要将其泄露给他人。
