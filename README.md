@@ -6,7 +6,7 @@
 
 ## 项目结构
 
-* 主程序：`dlmain.py`
+* 主程序：`dlmain.py`,`dldev.py`
 * 依赖库：`subprocess`, `sys`, `os`, `tkinter`, `threading`, `time`
 
 ## 使用说明
